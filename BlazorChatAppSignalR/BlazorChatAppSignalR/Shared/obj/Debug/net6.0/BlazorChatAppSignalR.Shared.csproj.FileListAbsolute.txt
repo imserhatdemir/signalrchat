@@ -1,0 +1,12 @@
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\bin\Debug\net6.0\BlazorChatAppSignalR.Shared.deps.json
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\bin\Debug\net6.0\BlazorChatAppSignalR.Shared.dll
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\bin\Debug\net6.0\ref\BlazorChatAppSignalR.Shared.dll
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\bin\Debug\net6.0\BlazorChatAppSignalR.Shared.pdb
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\obj\Debug\net6.0\BlazorChatAppSignalR.Shared.csproj.AssemblyReference.cache
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\obj\Debug\net6.0\BlazorChatAppSignalR.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\obj\Debug\net6.0\BlazorChatAppSignalR.Shared.AssemblyInfoInputs.cache
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\obj\Debug\net6.0\BlazorChatAppSignalR.Shared.AssemblyInfo.cs
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\obj\Debug\net6.0\BlazorChatAppSignalR.Shared.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\obj\Debug\net6.0\BlazorChatAppSignalR.Shared.dll
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\obj\Debug\net6.0\ref\BlazorChatAppSignalR.Shared.dll
+C:\Users\serha\source\repos\BlazorChatAppSignalR\BlazorChatAppSignalR\Shared\obj\Debug\net6.0\BlazorChatAppSignalR.Shared.pdb
